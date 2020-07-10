@@ -1,0 +1,26 @@
+[
+  {
+    "className" : "JJHomeVC",
+    "title" : "首页",
+    "imageName" : "首 页",
+    "selectImageName" : "首 页 拷贝"
+    },
+  {
+    "className" : "JJTaskVC",
+    "title" : "任务",
+    "imageName" : "矢量智能对象",
+   "selectImageName" : "矢量智能对象 拷贝"
+  },
+  {
+    "className" : "JJAssetsVC",
+    "title" : "资产",
+    "imageName" : "钱包",
+   "selectImageName" : "钱包 拷贝"
+  },
+  {
+    "className" : "JJUserVC",
+    "title" : "我的",
+    "imageName" : "我 的",
+   "selectImageName" : "我 的 拷贝"
+ }
+]

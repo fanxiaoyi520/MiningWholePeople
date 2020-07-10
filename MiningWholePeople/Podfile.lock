@@ -1,0 +1,60 @@
+PODS:
+  - AFNetworking (3.2.1):
+    - AFNetworking/NSURLSession (= 3.2.1)
+    - AFNetworking/Reachability (= 3.2.1)
+    - AFNetworking/Security (= 3.2.1)
+    - AFNetworking/Serialization (= 3.2.1)
+    - AFNetworking/UIKit (= 3.2.1)
+  - AFNetworking/NSURLSession (3.2.1):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.1)
+  - AFNetworking/Security (3.2.1)
+  - AFNetworking/Serialization (3.2.1)
+  - AFNetworking/UIKit (3.2.1):
+    - AFNetworking/NSURLSession
+  - IQKeyboardManager (6.5.5)
+  - MBProgressHUD (1.2.0)
+  - MJExtension (3.2.1)
+  - MJRefresh (3.4.3)
+  - SDWebImage (5.8.1):
+    - SDWebImage/Core (= 5.8.1)
+  - SDWebImage/Core (5.8.1)
+  - SGQRCode (3.0.1)
+  - TYAttributedLabel (2.6.6)
+
+DEPENDENCIES:
+  - AFNetworking
+  - IQKeyboardManager
+  - MBProgressHUD
+  - MJExtension
+  - MJRefresh
+  - SDWebImage
+  - SGQRCode
+  - TYAttributedLabel
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - IQKeyboardManager
+    - MBProgressHUD
+    - MJExtension
+    - MJRefresh
+    - SDWebImage
+    - SGQRCode
+    - TYAttributedLabel
+
+SPEC CHECKSUMS:
+  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
+  IQKeyboardManager: 3a8b9e603f8b0eeaf5f096a1f2b2cfcf121992ef
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MJExtension: 635f2c663dcb1bf76fa4b715b2570a5710aec545
+  MJRefresh: 53e3e3219f204425ee6d3e62e8733d3295944cd6
+  SDWebImage: e3eae2eda88578db0685a0c88597fdadd9433f05
+  SGQRCode: bf02d60e18d6660a9d75ff1c8b9b467f064f054e
+  TYAttributedLabel: cb8fc910d97eb5224936d4f692a78e042af691b2
+
+PODFILE CHECKSUM: 851c4ec5deb108a13cc167a2f5f1c7ebdd5b560c
+
+COCOAPODS: 1.9.1

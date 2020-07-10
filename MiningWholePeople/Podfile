@@ -1,0 +1,16 @@
+platform :ios, '8.0'
+inhibit_all_warnings!
+
+target 'MiningWholePeople' do
+use_frameworks!
+
+pod 'AFNetworking'
+pod 'MJExtension'
+pod 'IQKeyboardManager'
+pod 'MBProgressHUD'
+pod 'SGQRCode'
+pod 'SDWebImage'
+pod 'MJRefresh'
+pod 'TYAttributedLabel'
+pod 'ZZPhotoKit'
+end

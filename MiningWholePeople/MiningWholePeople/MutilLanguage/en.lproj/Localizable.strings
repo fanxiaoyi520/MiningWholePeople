@@ -1,0 +1,127 @@
+/* 
+  Localizable.strings
+  MiningWholePeople
+
+  Created by FANS on 2020/7/7.
+  Copyright © 2020 FANS. All rights reserved.
+*/
+//tabbar
+"首页" = "home page";
+"任务" = "task";
+"资产" = "assets";
+
+//登陆
+"登录" = "login";
+"中文简体" = "English";
+"注册" = "register";
+"欢迎来到 矿工家族" = "Welcome to the miner's family";
+"请输入您的账户" = "Please enter your account";
+"请输入登陆密码" = "Please input the login password";
+"忘记密码 | 没有账号？注册" = "Forget the password | No account? register";
+"忘记密码" = "Forget the password";
+"请输入手机号" = "Please enter your mobile phone number";
+"请输入正确的手机号" = "Please enter the correct mobile phone number";
+"请输入密码" = "Please input a password";
+"English" = "中文简体";
+
+//注册
+"设置6~18位大小写字母和数字组合的登录密码" = "Set the login password with 6-18 digits of upper and lower case letters and numbers";
+"确认登录密码" = "Confirm login password";
+"邀请码（必填）" = "Invitation code (required)";
+"请输入数字验证码" = "verification code";
+"发送验证码" = "Send verification code";
+"注册即表示同意《用户协议及隐私条款》" = "Registration means agreement to 《user agreement and privacy terms》";
+"《用户协议及隐私条款》" = "《user agreement and privacy terms》";
+"已有账号？登录" = "You have an account? login";
+"请输入验证码" = "verification code";
+"请输入正确的手机号" = "Please input the correct mobile number";
+"请输入8到20位的字母数字组合" = "Please enter an alphanumeric combination of 8 to 20 digits";
+"确认登陆密码" = "Confirm login password";
+"登陆密码不一致" = "Login password inconsistent";
+"邀请码" = "Invitation code";
+"重新发送" = "Resend";
+
+//忘记密码
+"确认" = "confirm";
+
+//我的
+"我的团队" = "My team";
+"安全中心" = "Security center";
+"邀请好友" = "Invite friends";
+"关于我们" = "About us";
+"联系客服" = "Contact customer service";
+"设置" = "Settings";
+"我的" = "Mine";
+"等级" = "Grade";
+
+//实名认证
+"实名认证" = "Real name authentication";
+"基本信息" = "Basic information";
+"认证信息" = "Authentication information";
+"请输入你的姓名" = "Please enter your name";
+"请输入你的身份证号码" = "Please enter your ID card number";
+"点击上传身份证正面照" = "Click to upload the front photo of ID card";
+"点击上传身份证反面照片" = "Click to upload the photo on the back of ID card";
+"点击上传人脸正面图片" = "Click to upload face image";
+"提交申请" = "Submit application";
+"上传成功" = "Upload succeeded";
+"上传失败" = "Upload failed";
+"待审核" = "To be reviewed";
+"请输入姓名" = "Please enter name";
+"请输入身份证号码" = "Please enter ID card number";
+"请上传身份证正面照" = "Please upload front photo of ID card";
+"请上传身份证反面照片" = "Please upload the photo on the back of ID card";
+"请上传人脸正面照片" = "Please upload face photo";
+
+//设置
+"设置" = "Settings";
+"语言选择" = "Language selection";
+"清除缓存" = "Clear cache";
+"退出登录" = "Log out";
+"矿工家族" = "Miner's family";
+"提示" = "Prompt";
+"此操作将退出当前账户,是否继续？" = "This operation will exit the current account. Do you want to continue? ";
+"此操作将清除缓存,是否继续？" = "This operation will clear the cache. Do you want to continue? ";
+"取消" = "Cancel";
+"确认" = "Confirm";
+
+//首页
+"升级矿机" = "Upgrade machinery";
+"邀请好友" = "Invite friends";
+"新手教程" = "Novice tutorial";
+"我的矿机" = "My miner";
+"矿机数量" = "Number machines";
+"日总产量" = "Total daily output";
+"一键收矿" = "One click mining";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
